@@ -1,6 +1,6 @@
 Name:		texlive-mynsfc
 Version:	60280
-Release:	1
+Release:	2
 Summary:	XeLaTeX template for writing the main body of NSFC proposals
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mynsfc
