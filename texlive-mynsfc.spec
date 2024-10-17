@@ -3,7 +3,7 @@ Version:	60280
 Release:	2
 Summary:	XeLaTeX template for writing the main body of NSFC proposals
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mynsfc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mynsfc
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mynsfc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mynsfc.doc.r%{version}.tar.xz
